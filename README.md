@@ -53,10 +53,10 @@ DAX (calculated measures, KPIs): Created calculated columns and measures using D
 Data Visualization & Dashboard Design: created Business Intelligence dynamic dashboards and reports that include charts and visuals. They are interactive and allow visualizing the data. This is done in the report view of Power BI. I constructed visuals that show how a product performed against its targets.
 ## Dashboard Preview
 <br>
-## Screenshots of the dashboard and report pages.
+## Screenshots of the dashboard and report pages. </br>
 <br>
 ![Executive Dashboard](https://github.com/dariointernet/Power-BI-portfolio/blob/main/Screenshot%202026-04-14%20131322.jpg)
-<br>
+</br><br>
 ![Executive Dashboard](https://github.com/dariointernet/Power-BI-portfolio/blob/main/Screenshot%202026-04-14%20131420.jpg)
 <br>
 ![Executive Dashboard](https://github.com/dariointernet/Power-BI-portfolio/blob/main/Screenshot%202026-04-14%20131525.jpg)
