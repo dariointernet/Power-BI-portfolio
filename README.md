@@ -79,25 +79,25 @@ With Data Analytics, Data Science & Business Intelligence skills, I used Power B
 
 - Screenshots of the dashboard and report pages.
 
-![Executive Dashboard](https://raw.githubusercontent.com/dariointernet/Power-BI-portfolio/main/Screenshot%202026-04-14%20131322.jpg)
+![Executive Dashboard](images/screenshot%202026-04-14131322.jpg)
 
-![Executive Dashboard](https://raw.githubusercontent.com/dariointernet/Power-BI-portfolio/main/Screenshot%202026-04-14%20131420.jpg)
+![Executive Dashboard](images/screenshot%202026-04-14131420.jpg)
 
-![Executive Dashboard](https://raw.githubusercontent.com/dariointernet/Power-BI-portfolio/main/Screenshot%202026-04-14%20131525.jpg)
+![Executive Dashboard](images/screenshot%202026-04-14131525.jpg)
 
-![Executive Dashboard](https://raw.githubusercontent.com/dariointernet/Power-BI-portfolio/main/Screenshot%202026-04-14%20131627.jpg)
+![Executive Dashboard](images/screenshot%202026-04-14131627.jpg)
 
-![Executive Dashboard](https://raw.githubusercontent.com/dariointernet/Power-BI-portfolio/main/Screenshot%202026-04-14%20131628.jpg)
+![Executive Dashboard](images/screenshot2026-04-14%20131628.jpg)
 
-![Executive Dashboard](https://raw.githubusercontent.com/dariointernet/Power-BI-portfolio/main/Screenshot%202026-04-14%20143852.jpg)
+![Executive Dashboard](images/screenshot%202026-04-14143852.jpg)
 
-![Executive Dashboard](https://raw.githubusercontent.com/dariointernet/Power-BI-portfolio/main/Screenshot%202026-04-14%20144412.jpg)
+![Executive Dashboard](images/screenshot%202026-04-14144412.jpg)
 
-![Executive Dashboard](https://raw.githubusercontent.com/dariointernet/Power-BI-portfolio/main/Screenshot%202026-04-14%20144622.jpg)
+![Executive Dashboard](images/screenshot%202026-04-14144622.jpg)
 
-![Executive Dashboard](https://raw.githubusercontent.com/dariointernet/Power-BI-portfolio/main/Screenshot%202026-04-14%20144623.jpg)
+![Executive Dashboard](images/screenshot%202026-04-14144623.jpg)
 
-![Executive Dashboard](https://raw.githubusercontent.com/dariointernet/Power-BI-portfolio/main/Screenshot%202026-04-14%20145135.jpg)
+![Executive Dashboard](images/screenshot#202026-04-14145135.jpg)
 
 ## Overview
 This is my portfolio project. I created it while studying the course:
