@@ -52,14 +52,14 @@ Data Modeling (relationships, schema design). In this phase, I took the data sou
 DAX (calculated measures, KPIs): Created calculated columns and measures using DAX - Data Analysis Expressions in the Data view/Table view of the interface of the front end of Power BI. Data view is part of the front end of Power BI. Added new formula-based columns to tables. Measures are DAX formulas used to generate new calculated values. Measures aren't visible within a table. They can only be seen within a visual, such as a chart or matrix. I used measures to create numerical, calculated values that can be analyzed in the values field of a report visual. In Power BI, measures are used to calculate sums, averages, minimums, maximums, and counts. In summary, when creating an aggregate value. Explicit measures are created when you write a DAX formula. Explicit measures can be used anywhere in the report. They can be used in other measures.
 Data Visualization & Dashboard Design: created Business Intelligence dynamic dashboards and reports that include charts and visuals. They are interactive and allow visualizing the data. This is done in the report view of Power BI. I constructed visuals that show how a product performed against its targets.
 ## Dashboard Preview
-<br>
-## Screenshots of the dashboard and report pages. </br>
-<br>
-![Executive Dashboard](https://github.com/dariointernet/Power-BI-portfolio/blob/main/Screenshot%202026-04-14%20131322.jpg)
-</br><br>
-![Executive Dashboard](https://github.com/dariointernet/Power-BI-portfolio/blob/main/Screenshot%202026-04-14%20131420.jpg)
-<br>
-![Executive Dashboard](https://github.com/dariointernet/Power-BI-portfolio/blob/main/Screenshot%202026-04-14%20131525.jpg)
+
+## Screenshots of the dashboard and report pages.
+
+![Executive Dashboard](https://raw.githubusercontent.com/dariointernet/Power-BI-portfolio/main/Screenshot%202026-04-14%20131322.jpg)
+
+![Executive Dashboard](https://raw.githubusercontent.com/dariointernet/Power-BI-portfolio/main/Screenshot%202026-04-14%20131420.jpg)
+
+![Executive Dashboard](https://raw.githubusercontent.com/dariointernet/Power-BI-portfolio/main/Screenshot%202026-04-14%20131525.jpg)
 <br>
 ![Executive Dashboard](https://github.com/dariointernet/Power-BI-portfolio/blob/main/Screenshot%202026-04-14%20131627.jpg)
 <br>
