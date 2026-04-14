@@ -1,6 +1,6 @@
-## Author: Dario Margeli
+### Author: Dario Margeli
 ## Multi-Page Business Intelligence Report
-## Sales & Customer Insights Dashboard using Microsoft Power BI
+### Sales & Customer Insights Dashboard using Microsoft Power BI
 ## Objective
 This project analyzes sales and customer data to provide actionable insights for different business roles, including executives, managers, analysts, and sales teams. I turned raw data into useful insights for decision-making.
 
