@@ -50,6 +50,7 @@ DAX (calculated measures, KPIs): Created calculated columns and measures using D
 Data Visualization & Dashboard Design: created Business Intelligence dynamic dashboards and reports that include charts and visuals. They are interactive and allow visualizing the data. This is done in the report view of Power BI. I constructed visuals that show how a product performed against its targets.
 Dashboard Preview
 Screenshots of the dashboard and report pages.
+![Executive Dashboard](https://github.com/dariointernet/Power-BI-portfolio/blob/main/Screenshot%202026-04-14%20131322.jpg)
 This is my portfolio project. I created it while studying the course:
 Microsoft Power BI Desktop for Business Intelligence
 This is a project-based course that simulates real-world scenarios. It is designed by Maven Analytics mavenanalytics.io. They help professionals build practical data skills in analytics, business intelligence, and data science.
