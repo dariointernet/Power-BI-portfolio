@@ -48,7 +48,7 @@ Product details page: allows focusing on individual products. With DAX, we built
 
 The ability to drill up & down has been included in this page, allowing users to drill up and down to see daily, weekly, and monthly data.
 
-![Executive Dashboard](https://raw.githubusercontent.com/dariointernet/Power-BI-portfolio/images/drill2026-04-13155432.jpg)
+![Executive Dashboard](images/drill2026-04-13155432.jpg)
 
 The goal of this page of the report is to analyze product-level trends.
 ### 4. Customer Insights
