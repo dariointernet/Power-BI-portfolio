@@ -47,9 +47,9 @@ Focus: Operational decision-making
 Product details page: allows focusing on individual products. With DAX, we built: revenue targets, order targets, and profit targets. So we can use gauge charts to show product performance against those targets. It has trending views for revenue, profit, and return rates. The idea is to show product-specific details.
 
 The ability to drill up & down has been included in this page, allowing users to drill up and down to see daily, weekly, and monthly data.
-<br>
+
 ![Executive Dashboard](https://raw.githubusercontent.com/dariointernet/Power-BI-portfolio/main/drill2026-04-13%20155432.jpg)
-<br>
+
 The goal of this page of the report is to analyze product-level trends.
 ### 4. Customer Insights
 - Customer segmentation
@@ -93,7 +93,7 @@ With Data Analytics, Data Science & Business Intelligence skills, I used Power B
 
 ![Executive Dashboard](https://raw.githubusercontent.com/dariointernet/Power-BI-portfolio/main/Screenshot%202026-04-14%20144412.jpg)
 
-![Executive Dashboard](https://raw.githubusercontent.com/dariointernet/Power-BI-portfolio/main/Screenshot%202026-04-14%20144412.jpg)
+![Executive Dashboard](https://raw.githubusercontent.com/dariointernet/Power-BI-portfolio/main/Screenshot%202026-04-14%20144622.jpg)
 
 ![Executive Dashboard](https://raw.githubusercontent.com/dariointernet/Power-BI-portfolio/main/Screenshot%202026-04-14%20144623.jpg)
 
