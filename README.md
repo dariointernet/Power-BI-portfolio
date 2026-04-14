@@ -93,7 +93,7 @@ With Data Analytics, Data Science & Business Intelligence skills, I used Power B
 
 ![Executive Dashboard](images/screenshot%202026-04-14144412.jpg)
 
-![Executive Dashboard](images/screenshot%202026-04-14144622.jpg)
+![Executive Dashboard](images/Screenshot%202026-04-14144622.jpg)
 
 ![Executive Dashboard](images/screenshot%202026-04-14144623.jpg)
 
