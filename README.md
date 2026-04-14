@@ -54,6 +54,7 @@ Data Visualization & Dashboard Design: created Business Intelligence dynamic das
 ## Dashboard Preview
 <br>
 ## Screenshots of the dashboard and report pages.
+<br>
 ![Executive Dashboard](https://github.com/dariointernet/Power-BI-portfolio/blob/main/Screenshot%202026-04-14%20131322.jpg)
 <br>
 ![Executive Dashboard](https://github.com/dariointernet/Power-BI-portfolio/blob/main/Screenshot%202026-04-14%20131420.jpg)
